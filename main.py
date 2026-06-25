@@ -1,4 +1,5 @@
 # (1, 1, 3, 5, 8, 13, 21, 34, 55)
+# absd
 def encrypt_hourglass(text, marker='*'):
     parts = []
     current_index = 0 #для текущей позиции в тексте
